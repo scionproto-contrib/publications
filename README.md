@@ -84,7 +84,7 @@ Example:
 	year         = {2021},
 	month        = {dec},
 	booktitle    = {International Conference on emerging Networking EXperiments and Technologies (CoNEXT ’21)},
-	url          = {https://jeltevanbommel.github.io/scion-publications/pdfs/2021/2021_conext_deployment.pdf},
+	url          = {https://scionproto-contrib.github.io/publications/pdfs/2021/2021_conext_deployment.pdf},
 	doi          = {10.1145/3485983.3494862},
 	comment         = {Best Paper Award},
 	keywords     = {networking}
