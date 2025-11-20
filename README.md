@@ -1,5 +1,5 @@
 # SCION Publications Repository
-Welcome to the SCION Publications Repository. This repository serves as a comprehensive archive of all publications related to SCION, including research papers, articles, white papers, and technical reports. The contents of this repository is the source for the [SCION publications list on scion-architecture.org](https://scion-architecture.net/publications/).
+Welcome to the SCION Publications Repository. This repository serves as a comprehensive archive of all publications related to SCION, including research papers, articles, white papers, and technical reports. The contents of this repository is the source for the [SCION publications list on scion.org](https://www.scion.org/research/).
 
 ## 📚 Repository Contents
 The repository is structured to maintain:
